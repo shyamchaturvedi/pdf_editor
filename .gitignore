@@ -1,6 +1,8 @@
+```plaintext name=.gitignore
 /node_modules/
 /public/build/
 
 .DS_Store
 yarn-error.log
 npm start
+```
